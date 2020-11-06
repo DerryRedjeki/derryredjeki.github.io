@@ -1,9 +1,9 @@
 ---
 ---
 
-Welcome to My Home Page
+Welcome to My Personal Page
+My personal website is currently under construction
 
-{% assign date = '2020-04-13T10:20:00Z' %}
+Thank you
 
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
+By the way, just call me Derry
