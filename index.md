@@ -4,7 +4,7 @@ My name is Derry. **Derry Redjeki** (my alias full name).
 
 If someone already knows my real full name (especially came from LinkedIn as an example), then it's great.
 
-I don't have an intention to hide my real full name, I just don't want anyone to pronounce my real full name more struggle because of my full name. Instead, I create my alias full name to make it easier to read and pronounce as well)
+I don't have an intention to hide my real full name, I just don't want anyone to pronounce my real full name more struggle because of my full name. Instead, I create my alias full name to make it easier to read and pronounce as well.
 
 Anyway,
 
@@ -33,10 +33,10 @@ And also, I am looking for a job position as a system administrator, DevOps engi
 Thank you
 
 ## About this website
-This personal website is based on my progress experience, and this website content can be changed anytime depending on my experience & my mood as well.
+This personal website is based on my experience, and this website content can be changed anytime depending on my experience & mood as well.
 
 ## How to contact me
 
-Currently, right now, you can only reach me by emailing me at `hello@derry.id` if you have any questions or other inquiries.
+Currently, you can only reach me by emailing me at `hello@derry.id` if you have any questions or other inquiries.
 
 Thank you.
